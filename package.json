@@ -1,0 +1,23 @@
+{
+  "name": "catarseie-landingpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanddybr/catarseie-landingpage.git"
+  },
+  "author": "Alexandre Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xanddybr/catarseie-landingpage/issues"
+  },
+  "homepage": "https://github.com/xanddybr/catarseie-landingpage#readme",
+  "description": "",
+  "dependencies": {
+    "node": "^18.20.7",
+    "nvm": "^0.0.4"
+  }
+}
