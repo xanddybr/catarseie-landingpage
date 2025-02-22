@@ -1,0 +1,60 @@
+
+.imgArea {
+    background-color: #101729;
+    text-align: center;
+    margin-top: -90px;
+ }
+
+ img {
+    height: 100%;
+    width: 70%;
+ }
+
+ .videoArea {
+    background-color: black;   
+ }
+ 
+ .buttonFile {
+    font-size: 1.3rem;
+    color: red;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    background-color: #ffffff;
+ }
+
+
+ .footArea {
+    background-color: #101729;
+    color: #808080;
+    font-size: 0.8rem;
+    margin-top: 10px;
+ }
+ 
+html, body {
+    background-color: #101729;
+ 
+}
+
+body { 
+    background-color: #101729;
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+}
+
+@media(max-width: 400px) {
+  .fontTitulo {
+      font-size: 1rem;
+      color: #ffffff;
+      font-weight: bold;
+  }
+}
+
+@media(max-width: 400px) {
+  .fontTitulo {
+      font-size: 1rem;
+      color: #ffffff;
+      font-weight: bold;
+  }
+}
+
